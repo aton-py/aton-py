@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aton</h1>
 <h3 align="center">A Software engineer from BR who loves MERN stack & Flutter</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aton-py&label=Profile%20views&color=0e75b6&style=flat" alt="aton-py" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aton-py" alt="aton-py" /></a> </p>
+
 - 🔭 I’m currently working on [Kbase | Paqueta The Shoe Company](https://kbase.com.br/2021/06/24/omnichannel-sistema-pdv-da-paqueta-entrega-inteligencia-na-mao-do-vendedor/)
 
 - 👨‍💻 All of my projects are available at [https://reisebertini.netlify.app/](https://reisebertini.netlify.app/)
@@ -22,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aton-py&show_icons=true&locale=en&layout=compact" alt="aton-py" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aton-py&show_icons=true&locale=en" alt="aton-py" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aton-py&" alt="aton-py" /></p>
