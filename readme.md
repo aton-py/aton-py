@@ -5,7 +5,7 @@
 
  </p>
 
-- 🔭 I’m currently working on [Kbase | Paqueta The Shoe Company](https://kbase.com.br/2021/06/24/omnichannel-sistema-pdv-da-paqueta-entrega-inteligencia-na-mao-do-vendedor/)
+- 🔭 I’m currently working on [Kbase](https://kbase.com.br/2021/06/24/omnichannel-sistema-pdv-da-paqueta-entrega-inteligencia-na-mao-do-vendedor/)
 
 - 👨‍💻 All of my projects are available at [https://reisebertini.netlify.app/](https://reisebertini.netlify.app/)
 
