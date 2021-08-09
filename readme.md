@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aton</h1>
-<h3 align="center">A Software engineer from BR who loves MERN stack & Flutter</h3>
+<h3 align="center">A Software engineer from BR who loves MERN stack , Flutter and .NET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aton-py&label=Profile%20views&color=0e75b6&style=flat" alt="aton-py" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aton-bertini-d%C3%B6rnfeld-143986104/](https://www.linkedin.com/in/aton-bertini-d%C3%B6rnfeld-143986104/)
 
-- 💬 Ask me about **React , React Native , Flutter , Node.js**
+- 💬 Ask me about **React , React Native , Flutter , Node.js, .NET**
 
 - 📫 How to reach me **@aton-py**
 
